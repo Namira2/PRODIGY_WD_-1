@@ -14,8 +14,8 @@ Built using HTML for structure, CSS for styling, and JavaScript for interactivit
 
 Demo
 
-![project demo](demo.png)
-![project demo](demo2.png)
+![project demo](assets/demo.png)
+![project demo](assets/demo2.png)
 
 How It Works
 
